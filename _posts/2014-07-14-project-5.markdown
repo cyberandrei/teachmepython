@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: December 2018
+client: Rubizza Hangout (Belarus)
+category: Natural Language Processing
+description: Making a speech about Named Entity Recognition in Python. I was covering such topics as availability of data sources, annotation tools (BRAT, Prodigy), training word embeddings (including amount of data that is required to train own word embeddings of reasonable quality), training Named Entity Recognition Deep Learning models via active learning in Prodigy, spaCy Python library for Named Entity Recognition, delivering NER model into production via HUG API.
+---

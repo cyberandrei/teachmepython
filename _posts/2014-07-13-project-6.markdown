@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: submarine.png
+alt: image-alt
+project-date: October 2018 - January 2019
+client: Talentako, Inc.(Tokyo)
+category: Natural Language Processing, DevOps
+description: The project aims to build an online resume formatting tool empowered with Machine Learning. One of my responsibilities was related to conducting research in the field of modern CV parsing approaches that utilize Deep Learning algorithms and architectures. The project requred me to make DevOps work also. So I was managing AWS infrastructure using Terraform as well as I was coniguring GitLab CI/CD pipelines.
+---

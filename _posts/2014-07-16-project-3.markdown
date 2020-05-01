@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: Febryary 2017 - December 2017
+client: ByteKnack, Inc.(US)
+category: Adaptive Learning systems design, Project Management
+description: The main idea behind the project is to build an interactive education system that teaches children computational thinking, computer science programming using artificial intelligence to personalize the curriculum for each student. I started as a R&D engineer. As soon as I gained deep understanding of clients' needs as well as deep understanding of the projects itself, I become a Project Manager. I continued to do some R&D tasks as well.
+---

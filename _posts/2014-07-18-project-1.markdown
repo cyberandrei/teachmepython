@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: September 2012 – December 2013
+client: Belarusian State University
+category:  This is an educational project founded by me and my classmates at Belarusian State University. The goal of the project was helping undergraduate students to learn mathematical disciplines with assistance of senior students. Me (in white jacket near the board) and the team of 10 senior students have been organising workshops, seminars and lectures. We were explaining concepts related to Mathematical Analysis & Linear Algebra.
+---

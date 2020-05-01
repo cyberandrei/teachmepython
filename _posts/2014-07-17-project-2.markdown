@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cake.png
+alt: image-alt
+project-date: October 2014 – May 2015
+client: EPAM Training Center at EPAM Systems, Inc.
+category: Python, Linux, Bash, C
+description: I was practising Linux essentials, Bash scripting, Linux development toolchain, Python programming language as well as advanced C programming while taking the offline training course.    
+---
