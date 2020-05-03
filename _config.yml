@@ -47,8 +47,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Minsk, Belarus
-  - line: UTC+3
+  - line: Andrei Volkau 
+  - line: State registration certificate №291585390 
+  - line: Belarus 
 
 
 # Build settings
