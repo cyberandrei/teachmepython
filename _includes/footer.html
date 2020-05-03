@@ -6,6 +6,7 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
                         <p>
+                        	<img class="img-responsive" src="img/profile.png" alt="profile-pic">
                             {% for adress in site.address %}
                                 {{ adress.line }} <br>
 		                    {% endfor %}
@@ -32,7 +33,6 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                    	<img class="img-responsive" src="img/profile.png" alt="profile-pic">
                         Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
                     </div>
                 </div>
